@@ -10,7 +10,7 @@ device:
 data:
   dataset: sunrgbd
   split: data/sunrgbd/splits
-  tmn_subnetworks: 2
+  tmn_subnetworks: 1
   face_samples: 1
   with_edge_classifier: True
 model:
